@@ -1,36 +1,36 @@
 const persons = [
         {
-          "name": "Alice",
+          "name": "Adam",
           "age": 25,
           "place": "New York",
           "dob": "1998-03-12"
         },
         {
-          "name": "Bob",
+          "name": "Big E",
           "age": 32,
           "place": "Los Angeles",
           "dob": "1991-07-19"
         },
         {
-          "name": "Charlie",
+          "name": "Dish",
           "age": 41,
           "place": "Chicago",
           "dob": "1982-11-03"
         },
         {
-          "name": "David",
+          "name": "Daniel",
           "age": 18,
           "place": "Houston",
           "dob": "2005-05-08"
         },
         {
-          "name": "Emily",
+          "name": "Emi",
           "age": 29,
           "place": "San Francisco",
           "dob": "1994-09-26"
         },
         {
-          "name": "Frank",
+          "name": "Frankenstein",
           "age": 36,
           "place": "Boston",
           "dob": "1987-12-30"
